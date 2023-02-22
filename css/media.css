@@ -1,0 +1,27 @@
+@media screen and (max-width: 412px){
+    .container1{
+        height: 72vh;
+    }
+    .topimage {
+        margin: 0px 290px;
+      }
+    .bottomimage {
+        text-align: start;
+        margin: 0px 0px;
+      }
+      .mountain img {
+        margin-top: -82px;
+        width: 41vh;
+      }
+      .topimage img {
+        margin-top: 35px;
+        width: 112px;
+        height: 40px;
+      }
+      .bottomimage img {
+        margin-top: 35px;
+        width: 112px;
+        height: 40px;
+      }
+    
+}

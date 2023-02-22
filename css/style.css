@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+*{
+margin: 0;padding: 0;
+}
+
+.container1{
+    text-align: center;
+    height: 105vh;
+    background-color: #e4f9f5;
+}
+.topimage{
+    text-align: end;
+    margin: 0px 220px;
+}
+.topimage img{
+    
+    margin-top: 35px;
+    width: 200px;
+    height: 50px;
+    
+    
+}
+.bottomimage{
+    text-align: start;
+    margin: 0px 220px;
+}
+.bottomimage img{
+    width: 200px;
+    height: 50px;
+    
+}
+h1{
+    text-align: center;
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+}
+h2{
+    text-align: center;
+    color:#66bfbf ;
+    font-family: 'Handlee', cursive;
+    font-size: 40px;
+}
+h3{
+    text-align: center;
+    color:black ;
+    font-family: 'Handlee', cursive;
+   font-size: 30px
+}
+/* .mountain{
+    text-align: center;
+} */
+.mountain img{
+    margin-top: -210px;
+    width: 120vh;
+}
+.container2{
+    text-align: center;
+    height:  420px;
+}
+.container2 img{
+    margin-top: 100px;
+}
+.namaste h1 img{
+    width: 100px;height: 100px;
+    margin-top: 2px;
+    margin: auto;
+}
+.namaste1{
+    text-align: center;
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    margin-top: 2px;;
+}
+.skills{
+    margin-top: 60px;
+}
+.image1{
+    margin-bottom: 40px;
+    width: 160px;
+    height: 160px;
+}
+.button1{
+    margin-top: 40px;
+    
+}
+.button1{
+    text-decoration: none;
+    color: white;
+    background-color: #66bfbf;
+    margin-top: 20px;
+    border-radius: 7px;
+    font-family: 'Handlee', cursive;
+    font-size: 30px;
+    
+    
+}
+.button{
+    margin: 40px;
+}
+.button1:hover{
+    font-weight: bolder;
+    
+}
+.container3{
+margin-top: 40px;
+background-color: #0eb99a;
+height: 30vh;
+}
+.link{
+    padding: 60px;
+}
+.link a{
+    
+    padding: 14px;
+    text-decoration: none;
+    color: #94eedd;
+    font-family: 'Handlee', cursive;
+    font-size: 30px;
+
+}
+.link a:hover{
+    font-weight: bolder;
+}
+p{
+    color: white;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+}

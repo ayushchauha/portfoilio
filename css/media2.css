@@ -1,0 +1,20 @@
+@media screen and (max-width: 810px){
+    .topimage {
+        text-align: end;
+        margin: 0px 30px;
+      }
+      .bottomimage {
+        text-align: start;
+        margin: 0px 30px;
+      }
+      .mountain img {
+        margin-top: -190px;
+        width: 75vh;
+      }
+      .container1 {
+        text-align: center;
+        height: 69vh;
+        background-color: #e4f9f5;
+      }
+    
+}
