@@ -1,6 +1,6 @@
 @media screen and (max-width: 412px){
     .container1{
-        height: 150vh;
+        height: 110vh;
     }
     .topimage {
         margin: 0px 250px;
@@ -24,7 +24,7 @@
         height: 40px;
       }
     .container3{
-        height: 50vh;
+        height: 45vh;
       }
     
 }
