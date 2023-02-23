@@ -1,13 +1,13 @@
 @media screen and (max-width: 412px){
     .container1{
-        height: 72vh;
+        height: 85vh;
     }
     .topimage {
-        margin: 0px 290px;
+        margin: 0px 250px;
       }
     .bottomimage {
         text-align: start;
-        margin: 0px 0px;
+        margin: 0px 30px;
       }
       .mountain img {
         margin-top: -98px;
